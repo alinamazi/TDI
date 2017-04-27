@@ -1,2 +1,1 @@
-# TDI
-The Data Incubator Test Repository
+The Data Incubator
